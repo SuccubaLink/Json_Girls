@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "title": "赛博朋克风格城市夜景循环 GIF 套装",
+      "type": "gif",
+      "url": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80",
+      "gallery": [
+        { 
+          "url": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80", 
+          "caption": "主视觉：繁忙的未来都市街道，霓虹灯光反射在湿润的路面上。" 
+        },
+        { 
+          "url": "https://images.unsplash.com/photo-1535295972055-1c762f4483e5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80", 
+          "caption": "细节展示：全息广告牌与飞行汽车的动态效果预览。" 
+        },
+        { 
+          "url": "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80", 
+          "caption": "氛围参考：深蓝色调的后巷场景，适合做文字背景。" 
+        }
+      ],
+      "downloadUrl": "https://pan.baidu.com/s/placeholder",
+      "description": "这是一套高质量的赛博朋克风格循环素材包。不仅包含宏大的城市全景，还有局部的霓虹招牌特写。非常适合用于视频背景、直播间装修或动态壁纸。所有素材均为 1080P 60帧循环。",
+      "tags": ["赛博朋克", "背景", "科幻", "多图"],
+      "size": "154 MB",
+      "date": "2023-10-12"
+    },
+    {
+      "id": 2,
+      "title": "极简主义 UI 设计组件库 (PNG + Figma)",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1586717791821-3f44a5638d4f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80",
+      "gallery": [
+        {
+          "url": "https://images.unsplash.com/photo-1586717791821-3f44a5638d4f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80",
+          "caption": "组件概览：包含按钮、输入框、卡片等 50+ 常用基础组件。"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80",
+          "caption": "移动端适配：所有组件均已适配 iOS 和 Android 设计规范。"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80",
+          "caption": "深色模式：附带完整的 Dark Mode 配色方案。"
+        }
+      ],
+      "downloadUrl": "https://drive.google.com/placeholder",
+      "description": "一套干净、现代的 UI 组件库。无需扣图，PNG 直接拖入 PPT 或 PS 使用。同时附带 Figma 源文件，方便设计师二次修改。",
+      "tags": ["UI设计", "素材", "免扣", "Figma"],
+      "size": "42 MB",
+      "date": "2023-11-05"
+    },
+    {
+      "id": 3,
+      "title": "Blender 3D 建模入门教程系列",
+      "type": "video",
+      "url": "https://images.unsplash.com/photo-1626126525134-fbbc06b9b96c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80",
+      "videoUrl": "https://www.bilibili.com/video/placeholder",
+      "description": "从零开始学习 Blender 建模，共 12 节课。点击跳转至 B 站观看。",
+      "tags": ["教程", "3D", "Blender"],
+      "size": "在线观看",
+      "date": "2023-12-01"
+    },
+    {
+      "id": 4,
+      "title": "复古胶片颗粒滤镜叠加层",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1590005176489-db2e71471159?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "downloadUrl": "https://pan.baidu.com/s/placeholder",
+      "description": "真实的胶片颗粒纹理，叠加模式使用 '柔光' 或 '叠加' 效果最佳。",
+      "tags": ["复古", "纹理", "摄影"],
+      "size": "8.2 MB",
+      "date": "2023-12-15"
+    },
+    {
+      "id": 5,
+      "title": "可爱猫咪表情包合集 GIF",
+      "type": "gif",
+      "url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80",
+      "downloadUrl": "https://pan.baidu.com/s/placeholder",
+      "description": "100 张高清猫咪动态表情包，聊天必备。",
+      "tags": ["猫咪", "表情包", "搞笑"],
+      "size": "25 MB",
+      "date": "2024-01-02"
+    },
+    {
+      "id": 6,
+      "title": "4K 航拍自然风光素材",
+      "type": "video",
+      "url": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80",
+      "videoUrl": "https://www.youtube.com/watch?v=placeholder",
+      "description": "无版权自然风光航拍视频，可商用。YouTube 高清源。",
+      "tags": ["航拍", "自然", "4K"],
+      "size": "在线观看",
+      "date": "2024-01-10"
+    },
+    {
+      "id": 7,
+      "title": "蒸汽波风格手机壁纸包",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80",
+      "gallery": [
+        { "url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80", "caption": "故障艺术风格" },
+        { "url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80", "caption": "液态渐变风格" }
+      ],
+      "downloadUrl": "#",
+      "description": "适配 iPhone 和 Android 的高分辨率蒸汽波壁纸。",
+      "tags": ["壁纸", "蒸汽波", "手机"],
+      "size": "120 MB",
+      "date": "2024-01-20"
+    }
+  ]
