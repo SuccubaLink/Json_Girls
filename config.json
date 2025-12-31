@@ -1,4 +1,12 @@
 {
     "years": [2025, 2024, 2023],
-    "announcement": "📢 站长公告：欢迎光临 ResourceHub！这是从 config.json 读取的动态公告。"
-  }
+    "announcement": "📢 站长公告：欢迎光临 ResourceHub！这是从 config.json 读取的动态公告。",
+    "creators": {
+        "HongKongDoll": {
+            "avatar": "https://example.com/avatar_doll.jpg"
+        },
+        "MelodyMarks": {
+            "avatar": "https://example.com/avatar_melody.jpg"
+        }
+    }
+}
